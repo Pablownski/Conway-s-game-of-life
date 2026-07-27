@@ -25,11 +25,3 @@ El tablero arranca con dos Gosper Glider Gun disparando gliders sin parar, varia
 ## Demo
 
 ![demo](demo.gif)
-
-Para regenerar el gif (requiere [ffmpeg](https://ffmpeg.org/) instalado y en el PATH):
-
-```powershell
-.\record_demo.ps1
-```
-
-Esto compila el proyecto, abre la ventana, graba 10 segundos y genera `demo.gif` en la raíz del repo.
